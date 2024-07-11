@@ -1,0 +1,2 @@
+# nextbase
+nextjsbase
